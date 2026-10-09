@@ -1,0 +1,10 @@
+{
+  "name": "dbms-project-31",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "db:setup": "npm run db:setup --prefix event-system",
+    "dev": "npm run dev --prefix event-system",
+    "test": "npm run test --prefix event-system"
+  }
+}
