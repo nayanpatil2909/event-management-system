@@ -1,8 +1,5 @@
 # Event Registration & Venue Scheduling System
-### Woxsen University — Department of Computer Science & Engineering
-**Course**: Database Management Systems (DBMS)  
-**Project Identifier**: Project 31  
-**Academic Year**: 2026  
+
 
 ---
 
